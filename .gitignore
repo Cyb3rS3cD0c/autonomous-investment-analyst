@@ -1,0 +1,14 @@
+config/config.json
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+chroma_db/
+chroma_notebook/
+notebooks/*.log
+notebooks/autonomous_financial_analyst.ipynb
+notebooks/autonomous_financial_analyst.html
+data/Companies-AI-Initiatives/*.pdf
